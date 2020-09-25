@@ -84,6 +84,11 @@
       "_id": 2,
       "name": "Raid-1 (1TB)",
       "price": 25.00
+    },
+    {
+      "_id": 3,
+      "name": "Overclock + Liquid Cooling",
+      "price": 30.00
     }
     ]
 }
