@@ -68,5 +68,22 @@
      "name": "i9-10900k / 64GB DDR4 / 512GB NVMe SSD",
      "price": 219.99
     }
-   ]
+   ],
+  "addons": [
+    {
+     "_id": 0,
+      "name": "Enterprise DDoS Protection",
+      "price": 75.00
+    },
+    {
+      "_id": 1,
+      "name": "Raid-1 (512GB)",
+      "price": 15.00
+    },
+    {
+      "_id": 2,
+      "name": "Raid-1 (1TB)",
+      "price": 25.00
+    }
+    ]
 }
