@@ -28,5 +28,45 @@
     "name": "Windows Server 2019",
     "price": 21.99
     }
-  ]
+  ],
+  "locations": [
+    { "_id": 0,
+     "name": "Dallas, TX, USA",
+     "price": 0.00
+    },
+    { "_id": 1,
+     "name": "London, UK",
+     "price": 0.00
+    }
+   ],
+  "builds": [
+    { "_id": 0,
+     "name": "Ryzen 3300X / 32GB DDR4 / 512GB NVMe SSD",
+     "price": 99.99
+    },
+    { "_id": 1,
+     "name": "Ryzen 3600 / 64GB DDR4 / 512GB NVMe SSD",
+     "price": 149.99
+    },
+    { "_id": 2,
+     "name": "Ryzen 3700X / 64GB DDR4 / 512GB NVMe SSD",
+     "price": 169.99
+    },
+    { "_id": 3,
+     "name": "Ryzen 3700X / 128GB DDR4 / 1TB NVMe SSD",
+     "price": 219.99
+    },
+    { "_id": 4,
+     "name": "Ryzen 3900X / 128GB DDR4 / 1TB NVMe SSD",
+     "price": 239.99
+    },
+    { "_id": 5,
+     "name": "i9-9900k / 64GB DDR4 / 512GB NVMe SSD",
+     "price": 189.99
+    },
+    { "_id": 6,
+     "name": "i9-10900k / 64GB DDR4 / 512GB NVMe SSD",
+     "price": 219.99
+    },
+   ],
 }
