@@ -75,21 +75,25 @@
     {
      "_id": 0,
       "name": "Enterprise DDoS Protection",
+      "description": "Mega DDoS protection for your server!",
       "price": 75.00
     },
     {
       "_id": 1,
       "name": "Raid-1 (512GB)",
+      "description": "Configure your SSD in Raid-1.",
       "price": 15.00
     },
     {
       "_id": 2,
       "name": "Raid-1 (1TB)",
+      "description": "Configure your SSD in Raid-1.",
       "price": 25.00
     },
     {
       "_id": 3,
       "name": "Overclock + Liquid Cooling",
+      "description": "Add an overclock and liquid cooling to your server. This is only available for Intel processors.",
       "price": 30.00
     }
     ]
