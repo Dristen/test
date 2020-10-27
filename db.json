@@ -104,7 +104,7 @@
      "location": "Dallas, TX",
      "model": "Ryzen 3600 / 64GB / 512GB NVMe",
      "notes": "",
-     "status": "incomplete"
+     "status": "new"
     },
     {
      "_id": 2,
@@ -112,7 +112,7 @@
      "location": "Dallas, TX",
      "model": "Intel i9900k / 64GB / 512GB NVMe",
      "notes": "",
-     "status": "installing"
+     "status": "delivered"
     },
     {
      "_id": 3,
