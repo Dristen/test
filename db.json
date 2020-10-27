@@ -103,7 +103,7 @@
      "client": "Christopher Sintes",
      "location": "Dallas, TX",
      "model": "Ryzen 3600 / 64GB / 512GB NVMe",
-     "notes": "",
+     "notes": "New order! Please update me with any progress or issues during delivery.",
      "status": "new"
     },
     {
@@ -111,7 +111,7 @@
      "client": "Dristen Mcknight",
      "location": "Dallas, TX",
      "model": "Intel i9900k / 64GB / 512GB NVMe",
-     "notes": "",
+     "notes": "Server has been delivered to client",
      "status": "delivered"
     },
     {
@@ -119,7 +119,7 @@
      "client": "Rene Roosen",
      "location": "London, UK",
      "model": "Ryzen 3900x / 128GB / 1TB NVMe",
-     "notes": "",
+     "notes": "We are currently out of stock for Ryzen 3900x, new shipment arriving in approx. 24 hours",
      "status": "issue"
     }
   ]
