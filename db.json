@@ -103,21 +103,24 @@
      "client": "Christopher Sintes",
      "location": "Dallas, TX",
      "model": "Ryzen 3600 / 64GB / 512GB NVMe",
-     "notes": ""
+     "notes": "",
+     "status": "incomplete"
     },
     {
      "_id": 2,
      "client": "Dristen Mcknight",
      "location": "Dallas, TX",
      "model": "Intel i9900k / 64GB / 512GB NVMe",
-     "notes": ""
+     "notes": "",
+     "status": "installing"
     },
     {
      "_id": 3,
      "client": "Rene Roosen",
      "location": "London, UK",
      "model": "Ryzen 3900x / 128GB / 1TB NVMe",
-     "notes": ""
+     "notes": "",
+     "status": "issue"
     }
   ]
 }
