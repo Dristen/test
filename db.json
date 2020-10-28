@@ -101,6 +101,7 @@
     {
      "_id": 1,
      "client": "Christopher Sintes",
+     "email": "chris@gameserverkings.com",
      "location": "Dallas, TX",
      "model": "Ryzen 3600 / 64GB / 512GB NVMe",
      "notes": "New order! Please update me with any progress or issues during delivery.",
@@ -109,6 +110,7 @@
     {
      "_id": 2,
      "client": "Dristen Mcknight",
+     "email": "dristen@gameserverkings.com",
      "location": "Dallas, TX",
      "model": "Intel i9900k / 64GB / 512GB NVMe",
      "notes": "Server has been delivered to client",
@@ -117,6 +119,7 @@
     {
      "_id": 3,
      "client": "Rene Roosen",
+     "email": "rene@gameserverkings.com",
      "location": "London, UK",
      "model": "Ryzen 3900x / 128GB / 1TB NVMe",
      "notes": "We are currently out of stock for Ryzen 3900x, new shipment arriving in approx. 24 hours",
