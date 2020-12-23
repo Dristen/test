@@ -33,12 +33,14 @@
     { "_id": 0,
      "name": "Dallas, TX",
      "flag": "http://cdn.gameserverkings.com/admin/countries/232/usa.svg?1540300665",
-     "price": 0.00
+     "price": 0.00,
+     "deliveryTime": 0
     },
     { "_id": 1,
      "name": "London, UK",
      "flag": "http://cdn.gameserverkings.com/admin/countries/230/uk.svg?1540300649",
-     "price": 0.00
+     "price": 0.00,
+     "deliveryTime": 72
     }
    ],
   "builds": [
