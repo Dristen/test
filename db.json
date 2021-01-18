@@ -1,131 +1,73 @@
 {
-  "operatingsystems": [
-    { "_id": 0,
-      "name": "Ubuntu 18.04",
-      "price": 0.00
-    },
-    { "_id": 1,
-    "name": "Ubuntu 20.04",
-    "price": 0.00
-    },
-    { "_id": 2,
-    "name": "CentOS 7",
-    "price": 0.00
-    },
-    { "_id": 3,
-    "name": "CentOS 8",
-    "price": 0.00
-    },
-    { "_id": 4,
-    "name": "Debian 10",
-    "price": 0.00
-    },
-    { "_id": 5,
-    "name": "Windows Server 2016",
-    "price": 21.99
-    },
-    { "_id": 6,
-    "name": "Windows Server 2019",
-    "price": 21.99
-    }
-  ],
-  "locations": [
-    { "_id": 0,
-     "name": "Dallas, TX",
-     "flag": "http://cdn.gameserverkings.com/admin/countries/232/usa.svg?1540300665",
-     "price": 0.00,
-     "deliveryTime": 0
-    },
-    { "_id": 1,
-     "name": "London, UK",
-     "flag": "http://cdn.gameserverkings.com/admin/countries/230/uk.svg?1540300649",
-     "price": 0.00,
-     "deliveryTime": 72
-    }
-   ],
-  "builds": [
-    { "_id": 0,
-     "name": "Ryzen 3300X / 32GB DDR4 / 512GB NVMe SSD",
-     "price": 99.99
-    },
-    { "_id": 1,
-     "name": "Ryzen 3600 / 64GB DDR4 / 512GB NVMe SSD",
-     "price": 149.99
-    },
-    { "_id": 2,
-     "name": "Ryzen 3700X / 64GB DDR4 / 512GB NVMe SSD",
-     "price": 169.99
-    },
-    { "_id": 3,
-     "name": "Ryzen 3700X / 128GB DDR4 / 1TB NVMe SSD",
-     "price": 219.99
-    },
-    { "_id": 4,
-     "name": "Ryzen 3900X / 128GB DDR4 / 1TB NVMe SSD",
-     "price": 239.99
-    },
-    { "_id": 5,
-     "name": "i9-9900k / 64GB DDR4 / 512GB NVMe SSD",
-     "price": 189.99
-    },
-    { "_id": 6,
-     "name": "i9-10900k / 64GB DDR4 / 512GB NVMe SSD",
-     "price": 219.99
-    }
-   ],
-  "addons": [
-    {
-     "_id": 0,
-      "name": "Enterprise DDoS Protection",
-      "description": "Mega DDoS protection for your server!",
-      "price": 75.00
-    },
-    {
-      "_id": 1,
-      "name": "Raid-1 (512GB)",
-      "description": "Configure your SSD in Raid-1.",
-      "price": 15.00
-    },
-    {
-      "_id": 2,
-      "name": "Raid-1 (1TB)",
-      "description": "Configure your SSD in Raid-1.",
-      "price": 25.00
-    },
-    {
-      "_id": 3,
-      "name": "Overclock + Liquid Cooling",
-      "description": "Add an overclock and liquid cooling to your server. This is only available for Intel processors.",
-      "price": 30.00
-    }
-    ],
-  "orders": [
-    {
-     "_id": 1,
-     "client": "Christopher Sintes",
-     "email": "chris@gameserverkings.com",
-     "location": "Dallas, TX",
-     "model": "Ryzen 3600 / 64GB / 512GB NVMe",
-     "notes": "New order! Please update me with any progress or issues during delivery.",
-     "status": "new"
-    },
-    {
-     "_id": 2,
-     "client": "Dristen Mcknight",
-     "email": "dristen@gameserverkings.com",
-     "location": "Dallas, TX",
-     "model": "Intel i9900k / 64GB / 512GB NVMe",
-     "notes": "Server has been delivered to client",
-     "status": "delivered"
-    },
-    {
-     "_id": 3,
-     "client": "Rene Roosen",
-     "email": "rene@gameserverkings.com",
-     "location": "London, UK",
-     "model": "Ryzen 3900x / 128GB / 1TB NVMe",
-     "notes": "We are currently out of stock for Ryzen 3900x, new shipment arriving in approx. 24 hours",
-     "status": "issue"
-    }
-  ]
+	"items": [{
+			name: "Abyssal whip",
+			game: "Oldschool RuneScape",
+			icon: "https://oldschool.runescape.wiki/images/5/5c/Abyssal_whip.png?88741",
+			added: "3",
+			updated: null,
+		},
+		{
+			name: "Volcanic abyssal whip",
+			game: "Oldschool RuneScape",
+			icon: "https://oldschool.runescape.wiki/images/d/d5/Volcanic_abyssal_whip.png?6ddc9",
+			added: "3",
+			updated: null,
+		},
+		{
+			name: "Frozen abyssal whip",
+			game: "Oldschool RuneScape",
+			icon: "https://oldschool.runescape.wiki/images/0/01/Frozen_abyssal_whip.png?87fc3",
+			added: "3",
+			updated: null,
+		},
+		{
+			name: "Dragon scimitar",
+			game: "Oldschool RuneScape",
+			icon: "https://oldschool.runescape.wiki/images/8/8b/Dragon_scimitar.png?9e9b8",
+			added: "4",
+			updated: null,
+		},
+		{
+			name: "Skyward Atlas",
+			game: "Genshin Impact",
+			icon: "https://i.imgur.com/UGQYo5K.png",
+			added: "5",
+			updated: null,
+		},
+		{
+			name: "Combat Knife",
+			game: "Rust",
+			icon: "https://files.facepunch.com/rust/item/knife.combat_512.png",
+			added: "6",
+			updated: null,
+		},
+		{
+			name: "Snowball",
+			game: "Rust",
+			icon: "https://files.facepunch.com/rust/item/snowball_512.png",
+			added: "7",
+			updated: null,
+		},
+		{
+			name: "Large Arrow",
+			game: "Dark Souls",
+			icon: "https://darksouls.wiki.fextralife.com/file/Dark-Souls/large_arrow.png",
+			added: "20",
+			updated: "10",
+		},
+		{
+			name: "Divine Ember",
+			game: "Dark Souls",
+			icon: "https://darksouls.wiki.fextralife.com/file/Dark-Souls/2110.png",
+			added: "29",
+			updated: "3",
+		},
+		{
+			name: "Master Key",
+			game: "Dark Souls",
+			icon: "https://darksouls.wiki.fextralife.com/file/Dark-Souls/2142.png",
+			added: "47",
+			updated: "30",
+		}
+	]
 }
