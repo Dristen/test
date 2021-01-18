@@ -1,73 +1,74 @@
 {
-	"items": [{
-			name: "Abyssal whip",
-			game: "Oldschool RuneScape",
-			icon: "https://oldschool.runescape.wiki/images/5/5c/Abyssal_whip.png?88741",
-			added: "3",
-			updated: null,
-		},
-		{
-			name: "Volcanic abyssal whip",
-			game: "Oldschool RuneScape",
-			icon: "https://oldschool.runescape.wiki/images/d/d5/Volcanic_abyssal_whip.png?6ddc9",
-			added: "3",
-			updated: null,
-		},
-		{
-			name: "Frozen abyssal whip",
-			game: "Oldschool RuneScape",
-			icon: "https://oldschool.runescape.wiki/images/0/01/Frozen_abyssal_whip.png?87fc3",
-			added: "3",
-			updated: null,
-		},
-		{
-			name: "Dragon scimitar",
-			game: "Oldschool RuneScape",
-			icon: "https://oldschool.runescape.wiki/images/8/8b/Dragon_scimitar.png?9e9b8",
-			added: "4",
-			updated: null,
-		},
-		{
-			name: "Skyward Atlas",
-			game: "Genshin Impact",
-			icon: "https://i.imgur.com/UGQYo5K.png",
-			added: "5",
-			updated: null,
-		},
-		{
-			name: "Combat Knife",
-			game: "Rust",
-			icon: "https://files.facepunch.com/rust/item/knife.combat_512.png",
-			added: "6",
-			updated: null,
-		},
-		{
-			name: "Snowball",
-			game: "Rust",
-			icon: "https://files.facepunch.com/rust/item/snowball_512.png",
-			added: "7",
-			updated: null,
-		},
-		{
-			name: "Large Arrow",
-			game: "Dark Souls",
-			icon: "https://darksouls.wiki.fextralife.com/file/Dark-Souls/large_arrow.png",
-			added: "20",
-			updated: "10",
-		},
-		{
-			name: "Divine Ember",
-			game: "Dark Souls",
-			icon: "https://darksouls.wiki.fextralife.com/file/Dark-Souls/2110.png",
-			added: "29",
-			updated: "3",
-		},
-		{
-			name: "Master Key",
-			game: "Dark Souls",
-			icon: "https://darksouls.wiki.fextralife.com/file/Dark-Souls/2142.png",
-			added: "47",
-			updated: "30",
-		}
-	]
+   "items":[
+      {
+         "name":"Abyssal whip",
+         "game":"Oldschool RuneScape",
+         "icon":"https://oldschool.runescape.wiki/images/5/5c/Abyssal_whip.png?88741",
+         "added":"3",
+         "updated":null
+      },
+      {
+         "name":"Volcanic abyssal whip",
+         "game":"Oldschool RuneScape",
+         "icon":"https://oldschool.runescape.wiki/images/d/d5/Volcanic_abyssal_whip.png?6ddc9",
+         "added":"3",
+         "updated":null
+      },
+      {
+         "name":"Frozen abyssal whip",
+         "game":"Oldschool RuneScape",
+         "icon":"https://oldschool.runescape.wiki/images/0/01/Frozen_abyssal_whip.png?87fc3",
+         "added":"3",
+         "updated":null
+      },
+      {
+         "name":"Dragon scimitar",
+         "game":"Oldschool RuneScape",
+         "icon":"https://oldschool.runescape.wiki/images/8/8b/Dragon_scimitar.png?9e9b8",
+         "added":"4",
+         "updated":null
+      },
+      {
+         "name":"Skyward Atlas",
+         "game":"Genshin Impact",
+         "icon":"https://i.imgur.com/UGQYo5K.png",
+         "added":"5",
+         "updated":null
+      },
+      {
+         "name":"Combat Knife",
+         "game":"Rust",
+         "icon":"https://files.facepunch.com/rust/item/knife.combat_512.png",
+         "added":"6",
+         "updated":null
+      },
+      {
+         "name":"Snowball",
+         "game":"Rust",
+         "icon":"https://files.facepunch.com/rust/item/snowball_512.png",
+         "added":"7",
+         "updated":null
+      },
+      {
+         "name":"Large Arrow",
+         "game":"Dark Souls",
+         "icon":"https://darksouls.wiki.fextralife.com/file/Dark-Souls/large_arrow.png",
+         "added":"20",
+         "updated":"10"
+      },
+      {
+         "name":"Divine Ember",
+         "game":"Dark Souls",
+         "icon":"https://darksouls.wiki.fextralife.com/file/Dark-Souls/2110.png",
+         "added":"29",
+         "updated":"3"
+      },
+      {
+         "name":"Master Key",
+         "game":"Dark Souls",
+         "icon":"https://darksouls.wiki.fextralife.com/file/Dark-Souls/2142.png",
+         "added":"47",
+         "updated":"30"
+      }
+   ]
 }
